@@ -57,8 +57,8 @@ SQL script formájában, de legjobb Azure SQL szerveren hosztolni
 - `1x1p` Az adatbázis adatainak forrásmegjelölése értsd: miből készült és hogyan
 - `1x2p` Az adatbázis saját Azure SQL szerveren van
 
-![weboldal](Screenshot 2024-12-13 at 18.47.10.png)
-![weboldal](Screenshot 2024-12-13 at 18.47.39.png)
+![weboldal](Screenshot2024-12-13at18.47.10.png)
+![weboldal](Screenshot2024-12-13at18.47.39.png)
 
 
 
